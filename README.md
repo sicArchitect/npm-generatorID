@@ -1,21 +1,26 @@
 # generator-id
 
 Generator id- it shows random characters depends how many you will input as a argument.
+This site was built using [GitHub Pages](https://github.com/sicArchitect/npm-generatorID).
 
-Download package:
+## Installation
 
-`yarn add @sicarchitect/randomid-generator` or `npm install @sicarchitect/randomid-generator`
+Use the comment ``
 
+```bash
+yarn add @sicarchitect/randomid-generator
+```
 
-The function randomID(idLength) is the generator or random characters from all letters implemented in `characters`.
+## Usage
 
-How to use it? At first import package
-
+```javascript
 const randomID = require('@sicarchitect/randomid-generator');
 
-In next step you can use `console.log()` with number how many characters you would like to generate. In console you will see the result.
+console.log(randomID(10));
+```
 
+## Contributing
 
-https://github.com/sicArchitect/npm-generatorID
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
+Please make sure to update tests as appropriate.
