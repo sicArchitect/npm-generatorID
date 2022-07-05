@@ -1,0 +1,7 @@
+{
+  "name": "@sicarchitect/randomid-generator",
+  "version": "1.0.2",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {}
+}
