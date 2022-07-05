@@ -1,11 +1,9 @@
 # generator-id
 
-Generator id- it shows random characters depends how many you will input as a argument.
+Generator-id it shows random characters depends how many you will input as a argument.
 This site was built using [GitHub Pages](https://github.com/sicArchitect/npm-generatorID).
 
 ## Installation
-
-Use the comment ``
 
 ```bash
 yarn add @sicarchitect/randomid-generator
